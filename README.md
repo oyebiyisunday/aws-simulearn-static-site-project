@@ -1,0 +1,1 @@
+# aws-simulearn-static-site-project
